@@ -1,4 +1,4 @@
-flowblox
+FlowbloX
 ========
 
-FlowbloX
+Revolutionary data flow control in .NET
